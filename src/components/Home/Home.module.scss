@@ -1,0 +1,19 @@
+.homeContainer {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.appName {
+    color: #0070d2;
+    /* Salesforce Blue */
+    font-weight: bold;
+}
+
+.logo {
+    max-width: 150px;
+    height: auto;
+}
