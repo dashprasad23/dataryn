@@ -1,7 +1,13 @@
 @import "@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system";
 
+:root {
+  color-scheme: light;
+}
+
 body {
   margin: 0;
   padding: 0;
-  background-color: #f3f2f2; 
+  background-color: #f3f2f2;
+  color: #3e3e3c;
+  /* SLDS standard text color or simple black */
 }
